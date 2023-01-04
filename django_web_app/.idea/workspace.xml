@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2a91055-73c7-45d1-88d2-64f6892e7dc5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/django_web_app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autocomplete/autocomplete/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autocomplete/autocomplete/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autocomplete/autocomplete/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autocomplete/autocomplete/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autocomplete/autocomplete/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autocomplete/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autocomplete/sequence_generation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autocomplete/sequence_generation/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autocomplete/sequence_generation/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autocomplete/sequence_generation/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autocomplete/sequence_generation/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autocomplete/sequence_generation/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autocomplete/sequence_generation/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/polls/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/polls/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/polls/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/polls/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/polls/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/polls/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/polls/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/polls/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/polls/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/wsgi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2JqkhzwewBv3zke0156ocWkUWdA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2a91055-73c7-45d1-88d2-64f6892e7dc5" name="Changes" comment="" />
+      <created>1672813123739</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672813123739</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
